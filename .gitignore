@@ -77,3 +77,8 @@ pyrightconfig.json
 # macOS and Linux
 .DS_Store
 Thumbs.db
+
+# Alembic caches/logs you can ignore
+alembic.ini.bak
+*.pyc
+__pycache__/
